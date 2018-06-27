@@ -1,0 +1,6 @@
+{
+	"Module Paths": {
+		"Module1": "Src/Module1.bas",
+		"Sheet4": "Src/Sheet4.cls"
+	}
+}
